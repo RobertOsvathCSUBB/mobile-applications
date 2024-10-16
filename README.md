@@ -51,3 +51,5 @@ This is a mobile application that lets users keep track of football matches. Aft
 - A status bar appears to notify users when there is no connection
 
 # App mockup
+
+![alt text](image.png)
